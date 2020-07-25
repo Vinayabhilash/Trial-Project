@@ -1,1 +1,2 @@
-# Trial-Project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
